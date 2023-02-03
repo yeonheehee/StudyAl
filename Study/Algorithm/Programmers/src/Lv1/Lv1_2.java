@@ -3,7 +3,7 @@ package Lv1;
 import java.util.Scanner;
 
 public class Lv1_2 {
-	public int solution(int number,int limit,int power) {
+	public int solution(int number,int limit,int power) { 
 		int answer = 0;
 		int i = 1,cnt = 0;
 		while(i <= number) {
